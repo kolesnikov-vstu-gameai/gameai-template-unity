@@ -1,0 +1,49 @@
+# Unity (проект лежит в подпапке UnityProject/)
+/UnityProject/[Ll]ibrary/
+/UnityProject/[Tt]emp/
+/UnityProject/[Oo]bj/
+/UnityProject/[Bb]uild/
+/UnityProject/[Bb]uilds/
+/UnityProject/[Ll]ogs/
+/UnityProject/[Uu]ser[Ss]ettings/
+/UnityProject/[Mm]emoryCaptures/
+/UnityProject/[Rr]ecordings/
+/UnityProject/Assets/AssetStoreTools*
+/UnityProject/Assets/Plugins/Editor/JetBrains*
+/UnityProject/.vs/
+/UnityProject/.gradle/
+/UnityProject/ExportedObj/
+/UnityProject/.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+/UnityProject/crashlytics-build.properties
+# IDE
+.idea/
+.vscode/
+.DS_Store
+# Видео демо — выкладывать ссылкой, не файлом
+*.mp4
+
+# Python-скрипты анализа
+__pycache__/
+.venv/
